@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+We offer a customizable company store platform, empowering businesses to effortlessly sell their products online.
+
 <!--
 
 **Here are some ideas to get you started:**
